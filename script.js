@@ -35,6 +35,8 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
+
+
 function play(){
     function move(){
         if(game_state != 'Play') return;
